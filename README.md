@@ -11,11 +11,20 @@ This repository contains everything we tackle during the Vivadata program:
 ## Notebooks
 
 | Python| Data Engineering| Machine Learning| Deep Learning| Cloud Deployment|
-|----------|:-------------:|------:|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 | col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 | col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 | col 2 is |    centered   |   $12 |
-
+|----------|:-------------:|------:|---|---|---|
+| col 1 is |  left-aligned | $1600 |   |   |   |
+| col 2 is |    centered   |   $12 |   |   |   |
+| col 3 is | right-aligned |    $1 |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
+|          |               |       |   |   |   |
 
 ## Push & Pull
 
