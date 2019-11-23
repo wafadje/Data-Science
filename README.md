@@ -3,7 +3,6 @@
 This repository contains everything we tackle during the Vivadata program:
 
     ⚽️ Challenges
-    🔥 Live Programming
     🚀 Mini-Projects
 
 ---
