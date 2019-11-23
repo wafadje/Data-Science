@@ -10,7 +10,7 @@ This repository contains everything we tackle during the Vivadata program:
 
 ## Notebooks
 
-|I. Python|II. Data Collection|III. Data Analysis|IV. Machine Learning|V. NLP|VI. Deep Learning|VII. Cloud Deployment|
+||I. Python|II. Data Collection|III. Data Analysis|IV. Machine Learning|V. NLP|VI. Deep Learning|VII. Cloud Deployment|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |[01 - Data Types & Data Structures 🧱](code/01-Python-Programming/01-Data-Types-and-Data-Structures/00-Lectures/01-Data-Types-and-Data-Structures.ipynb)|[01 - Files IO 💾](code/02-Data-Collection/01-Files-IO/00-Lectures/01-Files-IO.ipynb)|[01 - NumPy 🔢](code/03-Data-Analysis/01-NumPy/00-Lectures/01-NumPy.ipynb)|[01 - ML Introduction 🤖](code/04-Machine-Learning/01-Introduction-Machine-Learning/00-Lectures/01-Introduction-Machine-Learning.ipynb)|[01 - NLP-Introduction](code/05-NLP/01-NLP-Introduction/00-Lectures/01-NLP-Introduction.ipynb)|[01 - Multi-Layer-Perceptron](code/06-Deep-Learning/01-Multi-Layer-Perceptron/00-Lectures/01-Multi-Layer-Perceptron.ipynb)|[01 - AWS](code/07-Cloud-Deployment/01-AWS/00-Lectures/01-AWS.ipynb)|
 |[02 - Control Flow 🔄](code/01-Python-Programming/02-Control-Flow/00-Lectures/02-Control-Flow.ipynb)|[02 - JSON & APIs 🔌](code/02-Data-Collection/02-JSON-and-API/00-Lectures/JSON-and-API.ipynb)|[02 - Pandas 🐼](code/03-Data-Analysis/02-Pandas-Introduction/00-Lectures/02-Pandas.ipynb)|[02 - Classification 🌺](code/04-Machine-Learning/02-Classification/00-Lectures/02-Classification.ipynb)|[02 - Text Similarity](code/05-NLP/02-Text-Similarity/00-Lectures/02-Text-Similarity.ipynb)|[02 - Advanced MLP](code/06-Deep-Learning/02-Advanced-MLP)|[02 - Docker](code/07-Cloud-Deployment/02-Docker/00-Lectures/02-Docker.ipynb)|
