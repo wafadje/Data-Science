@@ -10,8 +10,6 @@ This repository contains everything we tackle during the Vivadata program:
 
 ## Notebooks
 
-||I. |II. Data Engineering|IV. Machine Learning|V. NLP|VI. Deep Learning|VII. Cloud Deployment||----------|:-------------:|------:||----------|:-------------:|------:||
-
 | Python| Data Engineering| Machine Learning| Deep Learning| Cloud Deployment|
 |----------|:-------------:|------:|----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 | col 1 is |  left-aligned | $1600 |
